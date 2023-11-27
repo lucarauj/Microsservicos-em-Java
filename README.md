@@ -30,7 +30,11 @@
 
 >*@AllArgsConstructor*
 
+>*Autowired*
+
 >*@EqualsAndHashCode*
+
+>*@EnableFeignClients*
 
 >*@Entity*
 
@@ -57,6 +61,8 @@
 >*@RequestBody*
 
 >*@Setter*
+
+>*@Service*
 
 >*@Table*
 

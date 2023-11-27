@@ -1,5 +1,6 @@
 package com.lucas.events.domain;
 
+import com.lucas.events.dtos.EventRequestDto;
 import jakarta.persistence.*;
 import lombok.*;
 
@@ -20,4 +21,12 @@ public class Event {
     private String date;
     private String title;
     private String description;
+
+    public Event(EventRequestDto eventRequest) {
+        this.date = eventRequest.date();
+        this.maxParticipants = eventRequest.maxParticipants();
+        this.registeredParticipants = eventRequest.registeredParticipants();
+        this.title = eventRequest.title();
+        this.description = eventRequest.description();
+    }
 }
