@@ -4,15 +4,21 @@
 
 <br>
 
-## Microsserviço Envio de Email
+## Microsserviço de Envio de Email
 
 [ Clique aqui🖱 ](https://github.com/lucarauj/Email-Service-com-Java-Spring-AmazonSES)
 
 <br>
 
-## 
+## Microsserviço de Eventos
 
+- Dependências
 
+>*Spring Web*
+>*OpenFeign*
+>*Spring Data JPA*
+>*H2 Database*
+>*Lombok*
 
 
 
