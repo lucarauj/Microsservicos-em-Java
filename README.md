@@ -44,6 +44,12 @@
 
 >*@NoArgsConstructor*
 
+>*@Nonnull*
+
+>*@Param*
+
+>*@Query*
+
 >*@Setter*
 
 >*@Table*
