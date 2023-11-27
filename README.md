@@ -34,6 +34,8 @@
 
 >*@Entity*
 
+>*@FeignClient*
+
 >*@GeneratedValue(strategy = GenerationType.UUID)*
 
 >*@Getter*
@@ -48,7 +50,11 @@
 
 >*@Param*
 
+>*@PostMapping*
+
 >*@Query*
+
+>*@RequestBody*
 
 >*@Setter*
 
