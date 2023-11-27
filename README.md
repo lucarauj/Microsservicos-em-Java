@@ -40,6 +40,8 @@
 
 >*@Id*
 
+>*@ManyToOne*
+
 >*@NoArgsConstructor*
 
 >*@Setter*
