@@ -15,11 +15,36 @@
 - Dependências
 
 >*Spring Web*
+
 >*OpenFeign*
+
 >*Spring Data JPA*
+
 >*H2 Database*
+
 >*Lombok*
 
+<br>
+
+- Anotações
+
+>*@AllArgsConstructor*
+
+>*@EqualsAndHashCode*
+
+>*@Entity*
+
+>*@GeneratedValue(strategy = GenerationType.UUID)*
+
+>*@Getter*
+
+>*@Id*
+
+>*@NoArgsConstructor*
+
+>*@Setter*
+
+>*@Table*
 
 
 
