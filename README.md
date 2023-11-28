@@ -32,49 +32,49 @@
 
 - Anotações
 
->*@AllArgsConstructor*
+>[@AllArgsConstructor](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@Autowired*
+>[@Autowired](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@EqualsAndHashCode*
+>[@EqualsAndHashCode](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@EnableFeignClients*
+>[@EnableFeignClients](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@Entity*
+>[@Entity](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@FeignClient*
+>[@FeignClient](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@GeneratedValue(strategy = GenerationType.UUID)*
+>[@GeneratedValue(strategy = GenerationType.UUID)](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@Getter*
+>[@Getter](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@GetMapping*
+>[@GetMapping](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@Id*
+>[@Id](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@ManyToOne*
+>[@ManyToOne](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@NoArgsConstructor*
+>[@NoArgsConstructor](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@Nonnull*
+>[@Nonnull](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@Param*
+>[@Param](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@PostMapping*
+>[@PostMapping](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@Query*
+>[@Query](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@RequestBody*
+>[@RequestBody](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@RequestMapping*
+>[@RequestMapping](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@RestController*
+>[@RestController](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@Setter*
+>[@Setter](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@Service*
+>[@Service](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
->*@Table*
+>[@Table](https://github.com/lucarauj/Anotacoes-Spring-Framework)
 
 <br>
 
