@@ -2,15 +2,19 @@
 
 <h1 align="center">Microsserviços em Java</h1>
 
+<p align="center"><img width="800px" src="https://github.com/lucarauj/Microsservicos-em-Java/blob/main/images/Diagrama.png" /></p>
+
 <br>
 
-## Microsserviço de Envio de Email [port=8000]
+## ✅ Microsserviço de Envio de Email [port=8000]
 
 [ Clique aqui🖱 ](https://github.com/lucarauj/Email-Service-com-Java-Spring-AmazonSES)
 
 <br>
 
-## Microsserviço de Eventos [port=8090]
+## ✅ Microsserviço de Eventos [port=8090]
+
+<br>
 
 - Dependências
 
@@ -72,11 +76,34 @@
 
 >*@Table*
 
+<br>
+
+## Requisições
 
 <br>
 
+- create event
+<p align="left"><img width="800px" src="https://github.com/lucarauj/Microsservicos-em-Java/blob/main/images/create-event.png" /></p>
 
+<br>
 
+- get all events
+<p align="left"><img width="800px" src="https://github.com/lucarauj/Microsservicos-em-Java/blob/main/images/get-all-events.png" /></p>
+
+<br>
+
+- get future events
+<p align="left"><img width="800px" src="https://github.com/lucarauj/Microsservicos-em-Java/blob/main/images/get-future-events.png" /></p>
+
+<br>
+
+- register event
+<p align="left"><img width="800px" src="https://github.com/lucarauj/Microsservicos-em-Java/blob/main/images/register-event.png" /></p>
+
+<br>
+
+- notificação email
+<p align="left"><img width="600px" src="https://github.com/lucarauj/Microsservicos-em-Java/blob/main/images/e-mail.png" /></p>
 
 <br>
 
