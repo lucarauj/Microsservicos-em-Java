@@ -1,4 +1,4 @@
 package com.lucas.events.dtos;
 
-public record EmailRequestDto(String to, String subject, String body) {
+public record EmailRequestDto(String to, String subject, String text) {
 }

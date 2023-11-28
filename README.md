@@ -4,13 +4,13 @@
 
 <br>
 
-## Microsserviço de Envio de Email
+## Microsserviço de Envio de Email [port=8000]
 
 [ Clique aqui🖱 ](https://github.com/lucarauj/Email-Service-com-Java-Spring-AmazonSES)
 
 <br>
 
-## Microsserviço de Eventos
+## Microsserviço de Eventos [port=8090]
 
 - Dependências
 
@@ -30,7 +30,7 @@
 
 >*@AllArgsConstructor*
 
->*Autowired*
+>*@Autowired*
 
 >*@EqualsAndHashCode*
 
@@ -43,6 +43,8 @@
 >*@GeneratedValue(strategy = GenerationType.UUID)*
 
 >*@Getter*
+
+>*@GetMapping*
 
 >*@Id*
 
@@ -60,6 +62,10 @@
 
 >*@RequestBody*
 
+>*@RequestMapping*
+
+>*@RestController*
+
 >*@Setter*
 
 >*@Service*
@@ -67,19 +73,7 @@
 >*@Table*
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
 
 
